@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kalim Ullah 👋
+An experienced and certified **Solar PV Technician** & **Digital Literacy Volunteer** based in Teknaf, Cox's Bazar.
 
-<!--
-**kolimullah3266/kolimullah3266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Certifications
+- **Solar (PV) System Installation and Maintenance** (SSIM Level 1 & Level 2 Certified)
+- **Advanced Computer Course** (Completed)
+- **Basic Computer Course** (Completed)
 
-Here are some ideas to get you started:
+## 💻 Tech & Practical Skills
+- **Solar Power Systems:** Panel mounting, battery bank wiring, charge controllers, inverter setups.
+- **Maintenance & Troubleshooting:** Preventive servicing, output measurement, fault diagnostics.
+- **Digital Skills:** Data management (MS Word, Excel), basic coding logic, Git/GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Languages
+- Rohingya (Native)
+- Bengali (Chittagonian Dialect)
+- English (Professional Working)
+
+## 📬 Contact Me
+- 📞 **Phone:** 01894537046
+- ✉️ **Email:** kolimullah3266@gmail.com
