@@ -18,4 +18,4 @@ An experienced and certified **Solar PV Technician** & **Digital Literacy Volunt
 
 ## 📬 Contact Me
 - 📞 **Phone:** 01894537046
-- ✉️ **Email:** kolimullah3266@gmail.com
+- ✉️ **Gmail:** kolimullah3266@gmail.com
